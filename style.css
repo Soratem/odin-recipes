@@ -1,6 +1,13 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: aqua;
+    font-size: 18px;
+}
+
+.homepage {
+    text-align: right;
+    font-size: 24px;
+    font-weight: 900;
 }
 
 h1 {
@@ -12,4 +19,9 @@ h1 {
 .recipes {
     font-size: 22px;
     font-weight: 400;
+}
+
+.recipeimage {
+    height: auto;
+    width: 600px;
 }
